@@ -5,3 +5,6 @@ function toggleMode() {
 
 }
 
+function avatarFoto() {
+  
+}
