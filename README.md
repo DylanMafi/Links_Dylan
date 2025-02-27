@@ -1,64 +1,58 @@
-Dylan Link's
+# Dylan Link's - Portfólio Pessoal
 
-Este projeto é uma página de links pessoais inspirada no Linktree, onde você pode compartilhar seus perfis de redes sociais e outras informações importantes.
+Este é um projeto de portfólio pessoal que exibe links para redes sociais e outras plataformas importantes. Ele foi construído com HTML, CSS e JavaScript, com o objetivo de apresentar uma maneira simples e eficaz de compartilhar informações de contato e redes sociais.
 
-🚀 Tecnologias Utilizadas
+## Demonstração
 
-HTML5
+Você pode visualizar a página em funcionamento [aqui](#).
 
-CSS3
+## Funcionalidades
 
-JavaScript
+- Exibição de avatar com nome e handle (exemplo: @dylanmafi).
+- Links rápidos para redes sociais (GitHub, LinkedIn, Instagram, E-mail).
+- Modo de troca de tema (dark/light) para uma experiência de navegação personalizada.
+- Ícones interativos para as redes sociais usando o [Ionicons](https://ionicons.com/).
 
-Google Fonts
+## Tecnologias Utilizadas
 
-Ionicons
+- **HTML5**: Estrutura da página.
+- **CSS3**: Estilização da página.
+- **JavaScript**: Função de troca de tema e interatividade.
+- **Ionicons**: Conjunto de ícones para redes sociais.
 
-📌 Funcionalidades
+## Como Rodar
 
-Exibição da foto de perfil e nome do usuário
+1. Clone o repositório:
 
-Lista de links para redes sociais
+    ```bash
+    git clone https://github.com/seuusuario/dylan-links.git
+    ```
 
-Botão de troca de tema (modo claro/escuro)
+2. Navegue até o diretório do projeto:
 
-🎨 Personalização
+    ```bash
+    cd dylan-links
+    ```
 
-Caso deseje modificar os links para suas redes sociais, basta editar o arquivo index.html e substituir os valores dentro das tags <a href="#"> pelos links desejados.
+3. Abra o arquivo `index.html` em seu navegador.
 
-Exemplo:
+## Personalização
 
-<a href="https://linkedin.com/in/seu-usuario" target="_blank">LinkedIn</a>
+- **Imagem de Avatar**: Altere a imagem `./assets/avatar.png` para sua própria foto.
+- **Links de Redes Sociais**: Modifique os links dentro das tags `<a>` para adicionar seus próprios links de redes sociais.
 
-📂 Estrutura do Projeto
+## Contribuição
 
-/
-├── assets/               # Pasta com imagens e outros recursos
-│   ├── avatar.png       # Imagem do avatar do usuário
-│
-├── index.html           # Estrutura da página principal
-├── style.css            # Estilos da página
-├── script.js            # Funções interativas (ex: troca de tema)
-└── README.md            # Documento explicativo do projeto
+Contribuições são bem-vindas! Se você tem sugestões ou melhorias para este projeto, sinta-se à vontade para abrir um _issue_ ou enviar um _pull request_.
 
-🛠 Como Executar o Projeto
+## Licença
 
-Clone este repositório:
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-git clone https://github.com/dylanmafi/Links_Dylan.git
+## Agradecimentos
 
-Acesse a pasta do projeto:
+- [Ionicons](https://ionicons.com/) para os ícones.
+- [Google Fonts](https://fonts.google.com/) para as fontes personalizadas.
 
-cd Links_Dylan
-
-Abra o arquivo index.html em um navegador.
-
-🌎 Demonstração
-
-Caso o projeto esteja hospedado, você pode acessá-lo diretamente pelo seguinte link:
-🔗 Link para o projeto
-
-📜 Licença
-
-Este projeto está sob a licença MIT. Sinta-se à vontade para modificá-lo e distribuí-lo! 😊
+---
 
